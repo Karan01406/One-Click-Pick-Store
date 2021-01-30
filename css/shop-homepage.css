@@ -1,0 +1,59 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template/shop-homepage)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+#imgone{
+  height: 465px;
+  width: 900px
+}
+
+.pic{
+  height: 465px;
+  width: 900px
+}
+
+.card-title{
+  color: blue;
+}
+
+.card-img-top{
+  height: 200px;
+}
+
+.fa{
+  color: black;
+}
+
+.fab{
+  color: black;
+}
+
+.subpic{
+  height: 100px;
+  width: 50px;
+}
+
+#ss{
+  height: 300px;
+  width: 100px;
+}
+
+.sports{
+  height: auto;
+  width: auto;
+}
+
+.fb{
+  height: 300px;
+  width: 300px;
+}
+
+.gloves{
+  height: 300px;
+ 
+}
